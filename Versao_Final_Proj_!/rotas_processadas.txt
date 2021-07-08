@@ -1,0 +1,22 @@
+#ROTA 1 
+Braga             0.00 km
+Lisboa            316.90 km
+Viseu             554.99 km
+
+#ROTA 2 
+Viana_do_Castelo  0.00 km
+Setubal           353.52 km
+Beja              457.42 km
+Faro              570.56 km
+Porto             1034.38 km
+Castelo_Branco    1210.09 km
+Lisboa            1397.89 km
+
+#ROTA 3 
+Evora             0.00 km
+Aveiro            239.17 km
+
+#ROTA 4 
+Lisboa            0.00 km
+Funchal           993.46 km
+Ponta_Delgada     1947.33 km
